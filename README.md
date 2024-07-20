@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# kodluyoruzilkrepo
-=======
 ## KODLUYORUZ İLK REPO
 
 # index.html dosyası açıldı
@@ -14,5 +11,4 @@
 
 [Kod Sayfası] (https://www.webtekno.com/kod-nedir-kod-yazma-kodlama-h92460.html)
 
-```
->>>>>>> 1319d4c (İlk commit)
+
